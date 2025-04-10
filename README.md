@@ -3,23 +3,23 @@
 </h1>
 
 <h1 align="center">
-  <a href="https://healthcoachz.netlify.app">Fitness Coach</a>
+  <a href="https://healthcoachz.netlify.app">Fitness Coach App</a>
 </h1>
 
 <h3 align="center"></h3>
 
 <p align="center">
 
-  <img alt="Stars" src="https://img.shields.io/github/stars/Mominuddin07/Health-Coach?style=social">
+  <img alt="Stars" src="https://img.shields.io/github/stars/anoop-grover/FitnessCoachK23DJ?style=social">
 
-  <a href="https://github.com/Mominuddin07/Health-Coach">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Mominuddin07/Health-Coach">
+  <a href="https://github.com/anoop-grover/FitnessCoachK23DJ">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/anoop-grover/FitnessCoachK23DJ">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
-  <a href="https://github.com/Mominuddin07/">
-    <img alt="made by Mohammed Mominuddin" src="https://img.shields.io/badge/made%20by-Mohammed%20Mominuddin-ff69b4">
+  <a href="https://github.com/anoop-grover/">
+    <img alt="made by Anoop Grover" src="https://img.shields.io/badge/made%20by-Anoop%20Grover-ff69b4">
   </a>
 </p>
 
@@ -113,12 +113,12 @@ The following tools were used in the construction of the project:
 
 ## Author
 
-<a href="https://www.linkedin.com/in/mohammed-mominuddin-350180259/">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFY3bB4gWUEVw/profile-displayphoto-shrink_200_200/0/1638286563108?e=1651708800&v=beta&t=WQhkU4GF5vPmHiAb788WkvXJaXnyKhYz5oarqqcfGBA" width="70px;" alt="Mohammed Mominuddin"/>
+<a href="https://www.linkedin.com/in/anoopgrover22/">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFY3bB4gWUEVw/profile-displayphoto-shrink_200_200/0/1638286563108?e=1651708800&v=beta&t=WQhkU4GF5vPmHiAb788WkvXJaXnyKhYz5oarqqcfGBA" width="70px;" alt="Anoop Grover"/>
  <br />
  <p><b>Anoop Grover</b></p></a>
  
-[![Linkedin Badge](https://img.shields.io/badge/-Mohammed%20Mominuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-mominuddin-350180259/)](https://www.linkedin.com/in/mohammed-mominuddin-350180259/)
+[![Linkedin Badge](https://img.shields.io/badge/-Anoop%20Grover-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anoopgrover22/)](https://www.linkedin.com/in/anoopgrover22/)
 
 ---
 
