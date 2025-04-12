@@ -114,9 +114,8 @@ The following tools were used in the construction of the project:
 ## Author
 
 <a href="https://www.linkedin.com/in/anoopgrover22/">
- <img style="border-radius: 50%;" src="./images/profilePhoto.png" width="70px;" alt="Anoop Grover"/>
+ <img style="border-radius: 50%;" src="./images/profilePhoto.jpg" width="70px;" alt="Anoop Grover"/>
  <br />
- <p><b>Anoop Grover</b></p></a>
  
 [![Linkedin Badge](https://img.shields.io/badge/-Anoop%20Grover-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anoopgrover22/)](https://www.linkedin.com/in/anoopgrover22/)
 
