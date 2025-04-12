@@ -114,7 +114,7 @@ The following tools were used in the construction of the project:
 ## Author
 
 <a href="https://www.linkedin.com/in/anoopgrover22/">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFY3bB4gWUEVw/profile-displayphoto-shrink_200_200/0/1638286563108?e=1651708800&v=beta&t=WQhkU4GF5vPmHiAb788WkvXJaXnyKhYz5oarqqcfGBA" width="70px;" alt="Anoop Grover"/>
+ <img style="border-radius: 50%;" src="./images/profilePhoto.png" width="70px;" alt="Anoop Grover"/>
  <br />
  <p><b>Anoop Grover</b></p></a>
  
